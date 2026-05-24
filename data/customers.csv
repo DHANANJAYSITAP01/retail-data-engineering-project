@@ -1,0 +1,201 @@
+customer_id,customer_name,city,state,signup_date
+1,Frank Boyd,Martinmouth,Oklahoma,2025-10-27
+2,Lance Parker,Clarkville,North Dakota,2026-05-03
+3,Brandon Baker,North Ronald,Michigan,2023-12-29
+4,Linda Taylor,Elaineton,West Virginia,2025-03-17
+5,Michael Leon,Karenland,Connecticut,2025-02-05
+6,Michelle Hahn,Martinborough,Montana,2025-03-01
+7,Tonya Gibson,North Isaiah,Oklahoma,2023-08-23
+8,William Garner,Copelandfort,Texas,2023-07-29
+9,David Gentry,Obrienton,Oregon,2025-01-14
+10,Dana Murphy,Campbellborough,Virginia,2024-08-11
+11,Eric Mcfarland,Carmenville,Massachusetts,2025-02-24
+12,Beth Willis,New Dianechester,Wisconsin,2023-06-16
+13,Samantha Bell,Aaronshire,New Hampshire,2026-02-18
+14,Justin Duncan,Larsenland,Oklahoma,2026-03-27
+15,James Castro,South Alex,New York,2023-09-14
+16,Cristina Lee,Port Coryport,Minnesota,2025-12-13
+17,Ashley Barrett,Costaborough,Louisiana,2024-07-19
+18,Ryan Galloway,South Theresaborough,Massachusetts,2024-09-26
+19,Christina Hall,Christophertown,Minnesota,2024-02-21
+20,Roy Watson,West Anthony,Oklahoma,2026-02-09
+21,John Phillips,New Lisaport,Rhode Island,2025-05-09
+22,Jeremy Webb,Briannaborough,Arkansas,2026-02-24
+23,Michael Hunt,Stevenfort,Arizona,2024-02-03
+24,Samuel Mcneil,Lake Maryhaven,Montana,2026-03-17
+25,Jackson Carpenter,New Heatherberg,Tennessee,2026-02-07
+26,Michael Smith,Port Gregory,Minnesota,2025-03-19
+27,Victoria Hall,North Sandraview,Georgia,2023-06-29
+28,Edward Smith,Glassland,Montana,2024-08-28
+29,Jeremy Smith,Lake Travistown,Nevada,2024-06-21
+30,Tammy Long,Coreyburgh,South Carolina,2025-01-04
+31,Margaret Green,Lake Antonio,Pennsylvania,2025-05-16
+32,Kyle Johnson,New Oscar,Florida,2024-09-22
+33,Mrs. Megan Jones PhD,Roseside,New Hampshire,2026-04-19
+34,Thomas Spencer,Lake Brandon,Minnesota,2024-08-15
+35,Daniel Russo MD,Benderfort,Washington,2023-10-31
+36,Jennifer Young,South Marcia,Vermont,2025-05-25
+37,Michael Peters,Knoxview,Montana,2024-04-21
+38,Samantha Peterson MD,North Raven,South Dakota,2026-05-04
+39,Shannon Black,Savageborough,New York,2024-01-12
+40,James Daniel,Port Laura,Texas,2023-07-23
+41,Andrea Perkins,Nicolehaven,Missouri,2025-11-16
+42,Andrea Davis,Dawsonview,Alabama,2025-03-19
+43,Leah Bradshaw,Weaverport,California,2026-04-30
+44,Andrea Lindsey,New Vincentville,Illinois,2024-09-26
+45,Jennifer Savage,Port Sierraland,Colorado,2026-03-27
+46,Kimberly Mcmillan,South Jennifer,Pennsylvania,2024-02-04
+47,Ricardo Sawyer,Douglasport,New Jersey,2026-03-09
+48,Adrian Kelly,New Cory,Michigan,2025-05-08
+49,David Fuentes,Jasonstad,Vermont,2024-04-16
+50,Nathaniel Clark,Leonardton,Louisiana,2023-09-26
+51,Destiny Carter,New Jennifer,Rhode Island,2023-07-18
+52,Joseph Barton,South Danielshire,Arizona,2023-10-17
+53,Brittany Johnson,Tracyfort,Maryland,2024-05-20
+54,Jessica Gutierrez,Jamesport,Montana,2023-09-08
+55,Tammy Houston,New Josehaven,Kansas,2026-02-19
+56,Ashley Tran,Smithmouth,New Hampshire,2025-02-21
+57,Kristina Parks,South Jason,Wisconsin,2025-12-26
+58,Shane Ruiz,Melissamouth,Utah,2025-01-16
+59,Angela Ellis,Kennethchester,Louisiana,2025-01-02
+60,Jennifer Harris,Caldwellbury,New Hampshire,2024-11-22
+61,Carol Davis,Romeroland,Missouri,2026-04-01
+62,Susan Sharp,Susanfort,Vermont,2026-04-23
+63,Terri James,West Reginaldmouth,North Carolina,2024-01-12
+64,Shannon Hines,Baileychester,South Dakota,2024-08-01
+65,Christopher Thomas,Collinsport,Alaska,2023-07-23
+66,Richard Walker,South Lisa,New York,2024-06-15
+67,Justin Castro,New Samanthachester,New Jersey,2023-10-25
+68,Andre Watson,Camposfurt,Indiana,2026-01-31
+69,Michelle Oneill,North Brandon,New York,2024-07-22
+70,Monica Dyer,Lake Lauraborough,Georgia,2025-09-01
+71,Martin Walker,Blairland,Oregon,2024-10-08
+72,Ryan Meza,New Angela,Missouri,2023-08-03
+73,Shawna Vance,Williamsshire,Michigan,2025-03-07
+74,John Powers,Chungburgh,Michigan,2023-05-30
+75,Timothy Hunt,Charlesberg,Louisiana,2024-09-06
+76,Miguel Stokes,New Barbaraview,Minnesota,2024-09-26
+77,Emily Thompson,Donaldport,Utah,2025-03-07
+78,Laurie Freeman,Johnsonland,Maryland,2025-12-17
+79,Ashlee Ramos,West Kennethburgh,Oklahoma,2026-05-02
+80,Jesse Davis,East Pamela,Massachusetts,2023-11-06
+81,Kathy Lozano,Robertsside,California,2023-09-01
+82,Edward Mccarty,Lake Richardside,South Dakota,2025-11-01
+83,Scott Armstrong,Chadport,Montana,2025-05-26
+84,Travis Hernandez,East Margaret,Wisconsin,2025-06-30
+85,Barbara Johnston,Port Cody,Maryland,2023-09-15
+86,Steven Nelson,Coxfurt,Indiana,2023-11-01
+87,Jamie Blackwell,Smithtown,Oklahoma,2024-10-14
+88,Michael Rios,Wilsonburgh,Wyoming,2024-11-02
+89,Lorraine Fisher,Jillianport,Oregon,2023-07-29
+90,Andrew Montes,North Mariahchester,Maryland,2024-05-31
+91,Gregory Wiggins,West Stephanie,Indiana,2025-08-24
+92,Meghan Martin,West Mariefurt,Maine,2024-07-12
+93,Kathleen Morris,Patricktown,Missouri,2025-07-01
+94,Vanessa Lewis,Port Roberta,Rhode Island,2023-06-05
+95,Megan Kim,Jamesberg,Utah,2023-11-16
+96,Elijah Nelson,New Meredithborough,Wyoming,2025-04-16
+97,Sean Gray,Port Bruceland,New York,2025-03-07
+98,Cynthia Butler,Jonesshire,North Carolina,2024-10-24
+99,David Jackson,Kevinville,Florida,2025-09-03
+100,Mr. David Pham,Garrettburgh,Arizona,2026-01-19
+101,Gary Carter,Carrville,Kentucky,2023-10-05
+102,Karen Bailey,East Mauriceborough,Missouri,2025-04-03
+103,Russell Fox,New Amy,Indiana,2026-02-18
+104,Margaret Young,North Heatherchester,Michigan,2024-06-18
+105,Charles Fisher,New Jamesbury,Alaska,2025-10-09
+106,Jacob Marquez,Jeremyland,New Hampshire,2025-11-30
+107,Christopher Hill,East Scott,North Dakota,2025-05-16
+108,Kenneth Rowe,South Erichaven,Missouri,2025-12-22
+109,Dylan Morgan,Lake Jamesburgh,Connecticut,2026-01-29
+110,Angel Ramirez,South Destinyton,Vermont,2025-05-31
+111,Ashley Phillips,Melaniefurt,Idaho,2023-09-18
+112,James Hanna,Lake Annfort,North Carolina,2026-02-25
+113,Richard Fields,Simonborough,California,2026-02-20
+114,John White,Amyfurt,Massachusetts,2024-01-27
+115,Mrs. Angela Gonzalez,Garybury,West Virginia,2024-04-22
+116,Kimberly Hunter,East William,Indiana,2023-07-25
+117,Kelly Rios,Port Adriana,Florida,2024-12-26
+118,Eric Johnson,Crystalborough,Alabama,2026-04-12
+119,Micheal Thomas,Kristinbury,Wyoming,2025-02-07
+120,Erin Burton,New Ann,Arizona,2024-05-25
+121,Dylan Sanchez,Elizabethfort,Mississippi,2025-05-01
+122,Brittany Duncan,West Lorichester,North Dakota,2023-12-12
+123,Anthony Mercer,West Megan,Louisiana,2023-06-27
+124,Peter Suarez,South Kenneth,Arkansas,2023-10-06
+125,Ross Garcia,Jessicaburgh,Alaska,2025-06-05
+126,Natalie Martin,Andreabury,Kentucky,2023-10-11
+127,Aaron Burch,South Robertbury,Pennsylvania,2023-06-11
+128,William Campbell,West Wyatt,Michigan,2023-10-31
+129,Casey Vega,East Elizabethfurt,Oregon,2026-05-09
+130,Barry Cook,Murphyton,Nevada,2023-10-01
+131,Jordan Moore,Kellystad,Delaware,2025-02-28
+132,Bradley Green,South Teresa,South Dakota,2025-01-28
+133,Melinda Thornton,Port Aimee,Kentucky,2025-09-30
+134,Kimberly Taylor,Port Katherineborough,Minnesota,2023-12-23
+135,Jason Smith,Nealbury,Alaska,2025-12-09
+136,Michelle Ford,Port Mark,New Jersey,2025-04-08
+137,Ronald Clark,Ramseymouth,Vermont,2025-08-14
+138,John York,Williamsshire,Alaska,2024-03-25
+139,Brandon Avery,Lake Elizabethstad,Missouri,2024-09-08
+140,Christopher Trujillo,Lake Michaelmouth,North Carolina,2023-10-16
+141,Crystal Woodard,Debbieside,Delaware,2024-02-02
+142,Stephanie Baker,Lake Allen,Iowa,2023-12-16
+143,Brenda Casey,Lake Nicholas,Oklahoma,2023-11-21
+144,Justin Noble Jr.,West Josephland,Arizona,2024-02-23
+145,Amber Strickland,Port Brittanymouth,North Dakota,2024-02-07
+146,Anita Brewer,Port Lisa,Alabama,2025-05-05
+147,Matthew Aguilar,East Debbieshire,Mississippi,2025-07-07
+148,Caitlin Allen,Chavezville,Oregon,2024-02-08
+149,Christopher Houston,West Robert,Virginia,2025-03-17
+150,Tasha Rosales,East Rachel,New York,2026-02-07
+151,Jeffrey Hudson,North Rebeccaport,Tennessee,2026-03-12
+152,Sabrina Walker,Kayleeview,Texas,2024-03-16
+153,Richard Hansen,Nancyville,Idaho,2023-11-04
+154,James Moore,East Loganview,New Mexico,2025-11-06
+155,Timothy Beard,East Theodoreview,Pennsylvania,2024-10-31
+156,Troy Deleon,Joelhaven,Montana,2025-11-03
+157,Laura Zavala,West Randyshire,Minnesota,2023-05-30
+158,Jose Huber,Joshuashire,Arkansas,2024-07-04
+159,Alicia Maldonado,Alejandroside,Vermont,2023-11-14
+160,Barry Lamb,Kaitlynborough,North Carolina,2024-10-22
+161,Tina Jones,Port Cindyside,Wisconsin,2025-06-16
+162,Stephanie Cummings,Madelineshire,Mississippi,2025-12-23
+163,Catherine Torres,South Rickeyburgh,Louisiana,2025-09-11
+164,Gina Watkins,Hernandezchester,South Dakota,2024-10-13
+165,Kristen Kennedy,East Jesse,Colorado,2025-12-05
+166,Sharon Brown,Jonesmouth,Nebraska,2023-11-30
+167,Michele Henderson,Angelaburgh,New Hampshire,2025-11-15
+168,Brian York MD,Port Nancyview,Montana,2025-10-18
+169,Jennifer Conner,Millerport,Mississippi,2025-07-14
+170,Ricky Curry,West Rebeccafurt,Vermont,2024-05-21
+171,Eric Hill,Port Oliviabury,Pennsylvania,2024-10-18
+172,Tara Humphrey,Christopherport,South Carolina,2025-08-12
+173,Barry Patterson,Kylefurt,Indiana,2023-07-28
+174,Natalie Rose,New Jeffrey,Nevada,2024-03-30
+175,James Rogers,New Heather,New Mexico,2024-04-18
+176,Rachel Dickson,Chadview,Alabama,2026-01-10
+177,Michael Burns,Samueltown,Iowa,2024-11-05
+178,Victoria Thompson,Novakfurt,Kentucky,2024-02-02
+179,Jenny Cox,New Pamelaton,Wyoming,2026-05-01
+180,Gloria Sharp,Olivertown,Idaho,2025-02-26
+181,Kevin Gomez,Robertborough,Tennessee,2025-05-30
+182,Nicole Munoz,Lake Aaron,New York,2023-09-23
+183,Ryan Rodriguez,South Randy,New York,2023-06-22
+184,Sharon Daniels,Samueltown,Alabama,2025-04-20
+185,Cynthia Jordan,North Brendaberg,Arkansas,2025-10-31
+186,James Johnson,North Christine,Missouri,2025-06-13
+187,Miss Mary Martinez DVM,Evelynville,Maryland,2025-12-10
+188,Derek Norton,Leonardland,Idaho,2026-01-18
+189,Kristen Moreno,Warnertown,New Hampshire,2024-11-28
+190,Miguel Bowers,South Cynthiaburgh,California,2023-07-18
+191,Sara Jones,Aaronburgh,Louisiana,2025-01-21
+192,Neil Short,South Rachel,Alabama,2024-10-14
+193,Sarah Smith,East Christine,Montana,2026-03-28
+194,Jeffrey Kelly,South Maryburgh,Missouri,2024-06-25
+195,Mary Ortega,Russellshire,Alabama,2026-01-29
+196,Daniel Shah,Nguyenview,Kansas,2025-04-20
+197,Shelly Newman,East James,Oklahoma,2023-07-03
+198,Kevin Spencer,East Pattyland,Arizona,2025-05-18
+199,James Reed,Timothyborough,New Mexico,2025-10-03
+200,Melissa Martin,Williammouth,Texas,2024-12-25

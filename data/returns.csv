@@ -1,0 +1,101 @@
+return_id,order_id,return_reason
+1,671,Late Delivery
+2,947,Wrong Item
+3,280,Wrong Item
+4,446,Wrong Item
+5,824,Wrong Item
+6,876,Damaged
+7,72,Damaged
+8,722,Customer Dissatisfied
+9,412,Customer Dissatisfied
+10,904,Late Delivery
+11,511,Damaged
+12,779,Damaged
+13,834,Wrong Item
+14,171,Late Delivery
+15,844,Late Delivery
+16,561,Customer Dissatisfied
+17,75,Late Delivery
+18,733,Wrong Item
+19,569,Late Delivery
+20,183,Late Delivery
+21,135,Customer Dissatisfied
+22,459,Wrong Item
+23,419,Late Delivery
+24,982,Wrong Item
+25,86,Late Delivery
+26,409,Damaged
+27,81,Wrong Item
+28,100,Customer Dissatisfied
+29,386,Customer Dissatisfied
+30,674,Late Delivery
+31,434,Customer Dissatisfied
+32,216,Late Delivery
+33,758,Late Delivery
+34,266,Customer Dissatisfied
+35,588,Wrong Item
+36,675,Late Delivery
+37,742,Customer Dissatisfied
+38,443,Customer Dissatisfied
+39,970,Damaged
+40,149,Wrong Item
+41,266,Customer Dissatisfied
+42,816,Customer Dissatisfied
+43,1,Late Delivery
+44,241,Late Delivery
+45,824,Late Delivery
+46,368,Wrong Item
+47,41,Late Delivery
+48,275,Late Delivery
+49,720,Late Delivery
+50,124,Damaged
+51,492,Damaged
+52,725,Late Delivery
+53,477,Customer Dissatisfied
+54,296,Damaged
+55,952,Damaged
+56,134,Late Delivery
+57,702,Wrong Item
+58,287,Late Delivery
+59,434,Wrong Item
+60,348,Customer Dissatisfied
+61,604,Wrong Item
+62,874,Damaged
+63,824,Wrong Item
+64,981,Wrong Item
+65,170,Wrong Item
+66,478,Wrong Item
+67,468,Damaged
+68,924,Late Delivery
+69,404,Wrong Item
+70,53,Customer Dissatisfied
+71,776,Customer Dissatisfied
+72,540,Damaged
+73,965,Late Delivery
+74,823,Damaged
+75,767,Wrong Item
+76,526,Late Delivery
+77,691,Customer Dissatisfied
+78,346,Wrong Item
+79,740,Customer Dissatisfied
+80,134,Customer Dissatisfied
+81,901,Wrong Item
+82,601,Damaged
+83,834,Damaged
+84,555,Wrong Item
+85,788,Customer Dissatisfied
+86,881,Customer Dissatisfied
+87,15,Damaged
+88,893,Customer Dissatisfied
+89,50,Late Delivery
+90,569,Damaged
+91,211,Wrong Item
+92,710,Late Delivery
+93,182,Late Delivery
+94,128,Late Delivery
+95,601,Wrong Item
+96,367,Wrong Item
+97,123,Late Delivery
+98,993,Damaged
+99,2,Customer Dissatisfied
+100,110,Late Delivery

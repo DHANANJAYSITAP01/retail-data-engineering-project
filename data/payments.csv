@@ -1,0 +1,1001 @@
+payment_id,order_id,payment_method,payment_status
+1,1,UPI,Completed
+2,2,Card,Completed
+3,3,UPI,Completed
+4,4,Card,Pending
+5,5,Card,Pending
+6,6,Net Banking,Completed
+7,7,Cash,Pending
+8,8,Net Banking,Failed
+9,9,UPI,Pending
+10,10,Cash,Failed
+11,11,Card,Failed
+12,12,UPI,Failed
+13,13,Net Banking,Failed
+14,14,Cash,Pending
+15,15,UPI,Failed
+16,16,UPI,Failed
+17,17,UPI,Pending
+18,18,Cash,Completed
+19,19,Cash,Failed
+20,20,UPI,Completed
+21,21,Net Banking,Completed
+22,22,Cash,Pending
+23,23,UPI,Failed
+24,24,UPI,Pending
+25,25,Cash,Pending
+26,26,UPI,Completed
+27,27,Cash,Pending
+28,28,Net Banking,Failed
+29,29,Card,Failed
+30,30,Card,Pending
+31,31,Net Banking,Completed
+32,32,Card,Failed
+33,33,Net Banking,Completed
+34,34,Card,Completed
+35,35,Net Banking,Pending
+36,36,Cash,Failed
+37,37,Net Banking,Completed
+38,38,Net Banking,Pending
+39,39,Net Banking,Failed
+40,40,UPI,Completed
+41,41,Cash,Completed
+42,42,Cash,Failed
+43,43,UPI,Failed
+44,44,Card,Pending
+45,45,UPI,Failed
+46,46,Cash,Pending
+47,47,Card,Pending
+48,48,Net Banking,Failed
+49,49,Cash,Pending
+50,50,UPI,Pending
+51,51,UPI,Failed
+52,52,Cash,Failed
+53,53,Cash,Completed
+54,54,Net Banking,Completed
+55,55,UPI,Pending
+56,56,Card,Completed
+57,57,Net Banking,Completed
+58,58,UPI,Failed
+59,59,Net Banking,Pending
+60,60,UPI,Completed
+61,61,Net Banking,Completed
+62,62,Cash,Pending
+63,63,Cash,Failed
+64,64,Card,Failed
+65,65,UPI,Failed
+66,66,UPI,Pending
+67,67,Card,Failed
+68,68,Card,Pending
+69,69,Card,Failed
+70,70,Net Banking,Pending
+71,71,Card,Completed
+72,72,Cash,Completed
+73,73,Cash,Pending
+74,74,UPI,Failed
+75,75,Cash,Failed
+76,76,UPI,Completed
+77,77,Card,Completed
+78,78,UPI,Completed
+79,79,UPI,Failed
+80,80,UPI,Failed
+81,81,Net Banking,Pending
+82,82,Card,Failed
+83,83,Net Banking,Pending
+84,84,Net Banking,Completed
+85,85,UPI,Pending
+86,86,Card,Failed
+87,87,Cash,Completed
+88,88,UPI,Failed
+89,89,Net Banking,Completed
+90,90,Cash,Pending
+91,91,Card,Pending
+92,92,Net Banking,Completed
+93,93,Card,Pending
+94,94,UPI,Pending
+95,95,Cash,Completed
+96,96,Cash,Failed
+97,97,Net Banking,Failed
+98,98,Card,Completed
+99,99,Net Banking,Pending
+100,100,Card,Completed
+101,101,Card,Failed
+102,102,UPI,Completed
+103,103,UPI,Pending
+104,104,UPI,Failed
+105,105,Net Banking,Pending
+106,106,Card,Completed
+107,107,Net Banking,Failed
+108,108,Net Banking,Failed
+109,109,UPI,Completed
+110,110,Net Banking,Failed
+111,111,Card,Completed
+112,112,Cash,Failed
+113,113,Cash,Completed
+114,114,Net Banking,Pending
+115,115,Card,Failed
+116,116,Cash,Failed
+117,117,UPI,Completed
+118,118,Net Banking,Failed
+119,119,Cash,Completed
+120,120,Card,Pending
+121,121,Card,Failed
+122,122,Net Banking,Pending
+123,123,Net Banking,Pending
+124,124,Cash,Pending
+125,125,Cash,Pending
+126,126,Net Banking,Completed
+127,127,Cash,Pending
+128,128,Cash,Pending
+129,129,UPI,Failed
+130,130,UPI,Failed
+131,131,UPI,Failed
+132,132,Card,Pending
+133,133,UPI,Completed
+134,134,Net Banking,Pending
+135,135,Cash,Completed
+136,136,Net Banking,Pending
+137,137,Card,Failed
+138,138,Card,Failed
+139,139,Cash,Completed
+140,140,Net Banking,Pending
+141,141,UPI,Completed
+142,142,Card,Completed
+143,143,Card,Completed
+144,144,UPI,Failed
+145,145,Net Banking,Completed
+146,146,Net Banking,Pending
+147,147,Net Banking,Failed
+148,148,Cash,Failed
+149,149,Card,Pending
+150,150,UPI,Pending
+151,151,UPI,Failed
+152,152,UPI,Completed
+153,153,Cash,Failed
+154,154,Card,Failed
+155,155,Net Banking,Pending
+156,156,Net Banking,Pending
+157,157,Cash,Failed
+158,158,UPI,Completed
+159,159,UPI,Completed
+160,160,Cash,Completed
+161,161,Net Banking,Pending
+162,162,Card,Pending
+163,163,Card,Pending
+164,164,Net Banking,Pending
+165,165,Cash,Failed
+166,166,Net Banking,Pending
+167,167,Net Banking,Completed
+168,168,Net Banking,Pending
+169,169,UPI,Failed
+170,170,UPI,Failed
+171,171,Net Banking,Failed
+172,172,Net Banking,Completed
+173,173,Net Banking,Pending
+174,174,Card,Completed
+175,175,Cash,Failed
+176,176,UPI,Completed
+177,177,Cash,Completed
+178,178,Net Banking,Failed
+179,179,Cash,Pending
+180,180,Cash,Completed
+181,181,Card,Completed
+182,182,Cash,Failed
+183,183,UPI,Pending
+184,184,UPI,Completed
+185,185,Cash,Failed
+186,186,Cash,Completed
+187,187,Cash,Pending
+188,188,Cash,Pending
+189,189,Cash,Completed
+190,190,Card,Failed
+191,191,Cash,Completed
+192,192,UPI,Completed
+193,193,Cash,Completed
+194,194,UPI,Completed
+195,195,Card,Completed
+196,196,Net Banking,Pending
+197,197,Net Banking,Completed
+198,198,UPI,Pending
+199,199,Net Banking,Failed
+200,200,Cash,Failed
+201,201,Card,Completed
+202,202,Net Banking,Completed
+203,203,Net Banking,Completed
+204,204,Cash,Pending
+205,205,Net Banking,Failed
+206,206,Net Banking,Pending
+207,207,Card,Completed
+208,208,Net Banking,Pending
+209,209,Net Banking,Failed
+210,210,Net Banking,Completed
+211,211,Cash,Completed
+212,212,Card,Pending
+213,213,Cash,Completed
+214,214,Net Banking,Completed
+215,215,Cash,Failed
+216,216,UPI,Pending
+217,217,UPI,Pending
+218,218,Card,Failed
+219,219,Cash,Completed
+220,220,Card,Failed
+221,221,Card,Failed
+222,222,Net Banking,Completed
+223,223,Card,Failed
+224,224,Card,Pending
+225,225,UPI,Failed
+226,226,Card,Failed
+227,227,Net Banking,Pending
+228,228,Net Banking,Failed
+229,229,Cash,Failed
+230,230,Card,Completed
+231,231,Card,Failed
+232,232,Net Banking,Completed
+233,233,Cash,Failed
+234,234,Card,Completed
+235,235,Cash,Pending
+236,236,Net Banking,Completed
+237,237,Cash,Pending
+238,238,Card,Pending
+239,239,UPI,Pending
+240,240,Card,Completed
+241,241,Card,Completed
+242,242,UPI,Completed
+243,243,Net Banking,Completed
+244,244,Net Banking,Failed
+245,245,Net Banking,Completed
+246,246,UPI,Failed
+247,247,Net Banking,Failed
+248,248,Cash,Completed
+249,249,UPI,Completed
+250,250,UPI,Failed
+251,251,Cash,Completed
+252,252,Card,Pending
+253,253,Card,Failed
+254,254,UPI,Completed
+255,255,Card,Pending
+256,256,Net Banking,Failed
+257,257,UPI,Failed
+258,258,Card,Failed
+259,259,Net Banking,Failed
+260,260,UPI,Completed
+261,261,Net Banking,Pending
+262,262,Cash,Completed
+263,263,Cash,Completed
+264,264,Net Banking,Completed
+265,265,Cash,Completed
+266,266,Cash,Failed
+267,267,Net Banking,Pending
+268,268,Net Banking,Completed
+269,269,Card,Completed
+270,270,Net Banking,Completed
+271,271,Net Banking,Pending
+272,272,Cash,Pending
+273,273,UPI,Pending
+274,274,UPI,Pending
+275,275,Cash,Failed
+276,276,Card,Pending
+277,277,UPI,Pending
+278,278,Net Banking,Failed
+279,279,Cash,Completed
+280,280,UPI,Completed
+281,281,Net Banking,Completed
+282,282,UPI,Failed
+283,283,Net Banking,Failed
+284,284,UPI,Pending
+285,285,Cash,Pending
+286,286,Card,Failed
+287,287,UPI,Pending
+288,288,UPI,Failed
+289,289,Cash,Pending
+290,290,Net Banking,Failed
+291,291,Net Banking,Pending
+292,292,Net Banking,Completed
+293,293,Cash,Pending
+294,294,Net Banking,Failed
+295,295,Net Banking,Pending
+296,296,Card,Pending
+297,297,Net Banking,Failed
+298,298,Cash,Completed
+299,299,UPI,Completed
+300,300,Net Banking,Pending
+301,301,Net Banking,Completed
+302,302,UPI,Completed
+303,303,Net Banking,Pending
+304,304,Net Banking,Completed
+305,305,Cash,Pending
+306,306,Cash,Pending
+307,307,Net Banking,Completed
+308,308,Cash,Pending
+309,309,Cash,Completed
+310,310,UPI,Completed
+311,311,UPI,Failed
+312,312,Card,Completed
+313,313,UPI,Pending
+314,314,UPI,Completed
+315,315,Net Banking,Pending
+316,316,Card,Pending
+317,317,Cash,Completed
+318,318,Card,Failed
+319,319,Card,Failed
+320,320,UPI,Failed
+321,321,Cash,Completed
+322,322,UPI,Completed
+323,323,Cash,Completed
+324,324,Cash,Pending
+325,325,Card,Completed
+326,326,Net Banking,Pending
+327,327,UPI,Failed
+328,328,Card,Failed
+329,329,Net Banking,Failed
+330,330,UPI,Pending
+331,331,UPI,Completed
+332,332,UPI,Pending
+333,333,Net Banking,Pending
+334,334,Cash,Failed
+335,335,Card,Failed
+336,336,Net Banking,Completed
+337,337,Net Banking,Pending
+338,338,Net Banking,Failed
+339,339,UPI,Completed
+340,340,Card,Failed
+341,341,UPI,Failed
+342,342,Card,Pending
+343,343,UPI,Completed
+344,344,UPI,Pending
+345,345,Card,Pending
+346,346,Cash,Pending
+347,347,Card,Completed
+348,348,Cash,Pending
+349,349,Card,Completed
+350,350,UPI,Failed
+351,351,Cash,Pending
+352,352,Net Banking,Failed
+353,353,Net Banking,Failed
+354,354,Net Banking,Completed
+355,355,Net Banking,Failed
+356,356,Net Banking,Failed
+357,357,Cash,Pending
+358,358,Card,Pending
+359,359,Cash,Completed
+360,360,Net Banking,Failed
+361,361,UPI,Completed
+362,362,Card,Pending
+363,363,Card,Pending
+364,364,Net Banking,Completed
+365,365,Net Banking,Completed
+366,366,Card,Completed
+367,367,UPI,Completed
+368,368,Cash,Pending
+369,369,Card,Pending
+370,370,UPI,Failed
+371,371,UPI,Failed
+372,372,Card,Completed
+373,373,UPI,Failed
+374,374,Net Banking,Pending
+375,375,Card,Completed
+376,376,Card,Failed
+377,377,Net Banking,Failed
+378,378,UPI,Failed
+379,379,UPI,Completed
+380,380,UPI,Failed
+381,381,UPI,Completed
+382,382,Cash,Pending
+383,383,Cash,Failed
+384,384,Card,Failed
+385,385,Net Banking,Pending
+386,386,Card,Pending
+387,387,UPI,Pending
+388,388,UPI,Failed
+389,389,Card,Completed
+390,390,Cash,Failed
+391,391,UPI,Failed
+392,392,Net Banking,Pending
+393,393,Card,Pending
+394,394,Cash,Completed
+395,395,Cash,Failed
+396,396,Cash,Pending
+397,397,Net Banking,Completed
+398,398,Net Banking,Failed
+399,399,Net Banking,Completed
+400,400,Cash,Pending
+401,401,Card,Completed
+402,402,UPI,Pending
+403,403,Card,Pending
+404,404,Cash,Completed
+405,405,Card,Failed
+406,406,Cash,Completed
+407,407,Net Banking,Failed
+408,408,Net Banking,Pending
+409,409,Cash,Pending
+410,410,Card,Pending
+411,411,UPI,Completed
+412,412,Cash,Pending
+413,413,Card,Pending
+414,414,Net Banking,Pending
+415,415,Cash,Pending
+416,416,Card,Failed
+417,417,Card,Pending
+418,418,Card,Failed
+419,419,Net Banking,Completed
+420,420,Net Banking,Completed
+421,421,Cash,Failed
+422,422,Cash,Completed
+423,423,UPI,Completed
+424,424,Card,Failed
+425,425,UPI,Pending
+426,426,UPI,Failed
+427,427,Cash,Completed
+428,428,UPI,Completed
+429,429,Cash,Failed
+430,430,UPI,Pending
+431,431,Card,Completed
+432,432,Card,Completed
+433,433,Card,Completed
+434,434,Net Banking,Failed
+435,435,Net Banking,Completed
+436,436,UPI,Completed
+437,437,Net Banking,Completed
+438,438,UPI,Failed
+439,439,Card,Completed
+440,440,Cash,Pending
+441,441,Card,Failed
+442,442,Net Banking,Failed
+443,443,Card,Pending
+444,444,Cash,Failed
+445,445,Card,Failed
+446,446,UPI,Pending
+447,447,UPI,Completed
+448,448,Card,Completed
+449,449,UPI,Pending
+450,450,UPI,Pending
+451,451,UPI,Pending
+452,452,Card,Completed
+453,453,Net Banking,Pending
+454,454,UPI,Failed
+455,455,UPI,Failed
+456,456,UPI,Pending
+457,457,UPI,Failed
+458,458,Card,Failed
+459,459,Net Banking,Pending
+460,460,UPI,Failed
+461,461,Net Banking,Completed
+462,462,Card,Pending
+463,463,Cash,Completed
+464,464,Net Banking,Failed
+465,465,UPI,Failed
+466,466,Card,Completed
+467,467,Cash,Pending
+468,468,Card,Completed
+469,469,UPI,Pending
+470,470,Card,Pending
+471,471,Cash,Pending
+472,472,Cash,Pending
+473,473,Net Banking,Completed
+474,474,Net Banking,Pending
+475,475,Card,Completed
+476,476,UPI,Completed
+477,477,Card,Completed
+478,478,Card,Completed
+479,479,Cash,Pending
+480,480,UPI,Completed
+481,481,Card,Pending
+482,482,Net Banking,Failed
+483,483,Card,Completed
+484,484,Card,Failed
+485,485,Net Banking,Failed
+486,486,UPI,Completed
+487,487,UPI,Pending
+488,488,UPI,Completed
+489,489,Net Banking,Failed
+490,490,Card,Completed
+491,491,UPI,Completed
+492,492,Card,Failed
+493,493,Cash,Completed
+494,494,Cash,Completed
+495,495,Card,Pending
+496,496,UPI,Failed
+497,497,Net Banking,Completed
+498,498,Net Banking,Failed
+499,499,Cash,Completed
+500,500,UPI,Failed
+501,501,Card,Failed
+502,502,UPI,Pending
+503,503,Card,Pending
+504,504,Cash,Pending
+505,505,UPI,Failed
+506,506,Net Banking,Pending
+507,507,Cash,Failed
+508,508,UPI,Pending
+509,509,Card,Pending
+510,510,UPI,Pending
+511,511,Net Banking,Completed
+512,512,Net Banking,Failed
+513,513,Card,Failed
+514,514,UPI,Completed
+515,515,Cash,Failed
+516,516,UPI,Failed
+517,517,Net Banking,Completed
+518,518,Card,Pending
+519,519,Net Banking,Completed
+520,520,Net Banking,Pending
+521,521,Net Banking,Pending
+522,522,Net Banking,Failed
+523,523,Net Banking,Pending
+524,524,Cash,Failed
+525,525,Card,Completed
+526,526,Cash,Pending
+527,527,Cash,Failed
+528,528,UPI,Pending
+529,529,Net Banking,Failed
+530,530,UPI,Pending
+531,531,Cash,Pending
+532,532,UPI,Pending
+533,533,UPI,Failed
+534,534,Net Banking,Failed
+535,535,Net Banking,Failed
+536,536,Card,Completed
+537,537,Cash,Failed
+538,538,Card,Failed
+539,539,UPI,Failed
+540,540,Net Banking,Pending
+541,541,Net Banking,Failed
+542,542,Net Banking,Completed
+543,543,Card,Pending
+544,544,UPI,Failed
+545,545,Card,Failed
+546,546,Net Banking,Completed
+547,547,Card,Pending
+548,548,Cash,Failed
+549,549,Net Banking,Completed
+550,550,UPI,Pending
+551,551,Net Banking,Completed
+552,552,Cash,Completed
+553,553,Cash,Completed
+554,554,UPI,Pending
+555,555,Cash,Pending
+556,556,Cash,Completed
+557,557,Net Banking,Pending
+558,558,Card,Completed
+559,559,Net Banking,Completed
+560,560,Cash,Failed
+561,561,Net Banking,Pending
+562,562,UPI,Failed
+563,563,Net Banking,Pending
+564,564,Cash,Pending
+565,565,Cash,Completed
+566,566,Net Banking,Pending
+567,567,UPI,Pending
+568,568,UPI,Pending
+569,569,UPI,Pending
+570,570,UPI,Pending
+571,571,Card,Completed
+572,572,Cash,Completed
+573,573,Card,Failed
+574,574,Cash,Pending
+575,575,Cash,Completed
+576,576,Card,Pending
+577,577,Card,Pending
+578,578,Card,Pending
+579,579,Net Banking,Completed
+580,580,UPI,Completed
+581,581,Net Banking,Pending
+582,582,Card,Failed
+583,583,Card,Pending
+584,584,Card,Completed
+585,585,Card,Failed
+586,586,UPI,Completed
+587,587,UPI,Completed
+588,588,UPI,Failed
+589,589,Net Banking,Failed
+590,590,UPI,Completed
+591,591,Net Banking,Pending
+592,592,Card,Pending
+593,593,Cash,Failed
+594,594,Net Banking,Pending
+595,595,UPI,Failed
+596,596,Card,Failed
+597,597,Net Banking,Pending
+598,598,UPI,Failed
+599,599,UPI,Completed
+600,600,Cash,Failed
+601,601,Net Banking,Completed
+602,602,UPI,Completed
+603,603,UPI,Failed
+604,604,Cash,Failed
+605,605,Cash,Completed
+606,606,Net Banking,Failed
+607,607,UPI,Pending
+608,608,Net Banking,Failed
+609,609,Cash,Completed
+610,610,UPI,Failed
+611,611,Card,Pending
+612,612,Cash,Pending
+613,613,Cash,Completed
+614,614,Net Banking,Pending
+615,615,Card,Completed
+616,616,Net Banking,Completed
+617,617,Card,Pending
+618,618,UPI,Failed
+619,619,Cash,Pending
+620,620,Card,Pending
+621,621,Net Banking,Completed
+622,622,UPI,Completed
+623,623,UPI,Failed
+624,624,UPI,Failed
+625,625,Net Banking,Pending
+626,626,Cash,Failed
+627,627,Cash,Failed
+628,628,UPI,Pending
+629,629,Cash,Pending
+630,630,Net Banking,Pending
+631,631,UPI,Completed
+632,632,Card,Pending
+633,633,Net Banking,Completed
+634,634,Net Banking,Completed
+635,635,Net Banking,Completed
+636,636,Cash,Pending
+637,637,Cash,Pending
+638,638,Card,Pending
+639,639,Card,Failed
+640,640,Net Banking,Failed
+641,641,Card,Failed
+642,642,Card,Completed
+643,643,Card,Pending
+644,644,Cash,Completed
+645,645,Net Banking,Failed
+646,646,Card,Pending
+647,647,Card,Completed
+648,648,Cash,Pending
+649,649,Card,Completed
+650,650,Cash,Pending
+651,651,Card,Completed
+652,652,Card,Failed
+653,653,Net Banking,Completed
+654,654,Cash,Completed
+655,655,UPI,Completed
+656,656,UPI,Pending
+657,657,UPI,Failed
+658,658,Net Banking,Completed
+659,659,UPI,Completed
+660,660,Card,Failed
+661,661,UPI,Pending
+662,662,Net Banking,Completed
+663,663,UPI,Completed
+664,664,Net Banking,Failed
+665,665,UPI,Pending
+666,666,UPI,Completed
+667,667,Card,Failed
+668,668,Card,Pending
+669,669,Cash,Completed
+670,670,Card,Pending
+671,671,Card,Completed
+672,672,Net Banking,Completed
+673,673,UPI,Failed
+674,674,Cash,Completed
+675,675,Card,Failed
+676,676,Cash,Pending
+677,677,Net Banking,Pending
+678,678,Net Banking,Completed
+679,679,Net Banking,Failed
+680,680,Card,Pending
+681,681,Cash,Failed
+682,682,Cash,Pending
+683,683,UPI,Pending
+684,684,UPI,Completed
+685,685,UPI,Failed
+686,686,UPI,Pending
+687,687,UPI,Completed
+688,688,UPI,Pending
+689,689,Net Banking,Pending
+690,690,Net Banking,Pending
+691,691,Cash,Pending
+692,692,UPI,Pending
+693,693,Cash,Completed
+694,694,UPI,Failed
+695,695,UPI,Failed
+696,696,UPI,Failed
+697,697,Net Banking,Completed
+698,698,Card,Failed
+699,699,Cash,Failed
+700,700,Card,Pending
+701,701,Net Banking,Completed
+702,702,Card,Completed
+703,703,Card,Pending
+704,704,Net Banking,Failed
+705,705,Net Banking,Failed
+706,706,UPI,Failed
+707,707,Net Banking,Failed
+708,708,Card,Completed
+709,709,Net Banking,Failed
+710,710,Card,Failed
+711,711,Cash,Failed
+712,712,Net Banking,Pending
+713,713,UPI,Pending
+714,714,Card,Pending
+715,715,Card,Completed
+716,716,Cash,Pending
+717,717,UPI,Failed
+718,718,Net Banking,Failed
+719,719,Net Banking,Failed
+720,720,Card,Pending
+721,721,Net Banking,Pending
+722,722,UPI,Pending
+723,723,Net Banking,Failed
+724,724,Cash,Failed
+725,725,Net Banking,Failed
+726,726,Card,Failed
+727,727,Card,Pending
+728,728,Net Banking,Completed
+729,729,Card,Pending
+730,730,Card,Failed
+731,731,Net Banking,Failed
+732,732,UPI,Pending
+733,733,Net Banking,Pending
+734,734,Cash,Failed
+735,735,UPI,Failed
+736,736,Net Banking,Completed
+737,737,Card,Pending
+738,738,UPI,Completed
+739,739,Cash,Completed
+740,740,Cash,Failed
+741,741,UPI,Completed
+742,742,UPI,Pending
+743,743,UPI,Failed
+744,744,Card,Failed
+745,745,Cash,Pending
+746,746,UPI,Pending
+747,747,Card,Failed
+748,748,Net Banking,Failed
+749,749,Card,Failed
+750,750,Net Banking,Pending
+751,751,Card,Pending
+752,752,Cash,Pending
+753,753,UPI,Completed
+754,754,UPI,Completed
+755,755,Cash,Completed
+756,756,Cash,Failed
+757,757,Cash,Pending
+758,758,Card,Pending
+759,759,UPI,Failed
+760,760,UPI,Failed
+761,761,UPI,Failed
+762,762,Cash,Pending
+763,763,Net Banking,Pending
+764,764,Card,Pending
+765,765,Net Banking,Pending
+766,766,UPI,Pending
+767,767,UPI,Failed
+768,768,Net Banking,Pending
+769,769,Net Banking,Failed
+770,770,UPI,Completed
+771,771,Card,Pending
+772,772,Net Banking,Completed
+773,773,Net Banking,Completed
+774,774,UPI,Pending
+775,775,UPI,Completed
+776,776,Net Banking,Completed
+777,777,UPI,Pending
+778,778,Net Banking,Completed
+779,779,UPI,Pending
+780,780,UPI,Completed
+781,781,UPI,Failed
+782,782,UPI,Failed
+783,783,UPI,Completed
+784,784,Card,Failed
+785,785,Cash,Completed
+786,786,UPI,Pending
+787,787,UPI,Completed
+788,788,Card,Failed
+789,789,UPI,Failed
+790,790,Card,Pending
+791,791,Card,Completed
+792,792,Cash,Failed
+793,793,Net Banking,Completed
+794,794,Card,Failed
+795,795,Cash,Failed
+796,796,UPI,Completed
+797,797,UPI,Failed
+798,798,Cash,Completed
+799,799,UPI,Failed
+800,800,Card,Completed
+801,801,Net Banking,Completed
+802,802,Net Banking,Completed
+803,803,Net Banking,Completed
+804,804,UPI,Pending
+805,805,Net Banking,Pending
+806,806,Card,Completed
+807,807,Cash,Completed
+808,808,Net Banking,Completed
+809,809,Card,Completed
+810,810,Card,Pending
+811,811,Card,Failed
+812,812,Card,Completed
+813,813,UPI,Pending
+814,814,UPI,Failed
+815,815,Net Banking,Pending
+816,816,UPI,Completed
+817,817,Net Banking,Failed
+818,818,Card,Failed
+819,819,UPI,Completed
+820,820,Cash,Failed
+821,821,UPI,Failed
+822,822,Net Banking,Pending
+823,823,Net Banking,Completed
+824,824,UPI,Pending
+825,825,UPI,Pending
+826,826,Cash,Completed
+827,827,Net Banking,Completed
+828,828,UPI,Pending
+829,829,Net Banking,Failed
+830,830,Card,Completed
+831,831,Cash,Pending
+832,832,Net Banking,Failed
+833,833,Cash,Failed
+834,834,Cash,Failed
+835,835,UPI,Completed
+836,836,Cash,Pending
+837,837,Cash,Pending
+838,838,UPI,Pending
+839,839,UPI,Completed
+840,840,UPI,Completed
+841,841,UPI,Pending
+842,842,UPI,Completed
+843,843,Card,Completed
+844,844,Net Banking,Failed
+845,845,Net Banking,Completed
+846,846,Cash,Pending
+847,847,Card,Completed
+848,848,Net Banking,Completed
+849,849,Net Banking,Failed
+850,850,Cash,Failed
+851,851,Net Banking,Pending
+852,852,Net Banking,Completed
+853,853,Net Banking,Completed
+854,854,Net Banking,Pending
+855,855,Card,Failed
+856,856,Card,Pending
+857,857,Cash,Completed
+858,858,Cash,Completed
+859,859,Cash,Failed
+860,860,Card,Pending
+861,861,UPI,Failed
+862,862,Cash,Pending
+863,863,Card,Failed
+864,864,UPI,Completed
+865,865,Card,Completed
+866,866,Net Banking,Completed
+867,867,Cash,Completed
+868,868,Net Banking,Failed
+869,869,Cash,Pending
+870,870,Cash,Completed
+871,871,UPI,Failed
+872,872,Net Banking,Pending
+873,873,Cash,Failed
+874,874,Card,Failed
+875,875,UPI,Failed
+876,876,Cash,Failed
+877,877,Net Banking,Pending
+878,878,Net Banking,Failed
+879,879,UPI,Pending
+880,880,UPI,Pending
+881,881,Net Banking,Completed
+882,882,Net Banking,Completed
+883,883,Card,Pending
+884,884,Net Banking,Pending
+885,885,Net Banking,Failed
+886,886,UPI,Completed
+887,887,Net Banking,Pending
+888,888,Card,Pending
+889,889,Net Banking,Failed
+890,890,Cash,Failed
+891,891,Net Banking,Failed
+892,892,UPI,Pending
+893,893,Net Banking,Completed
+894,894,Cash,Pending
+895,895,UPI,Completed
+896,896,UPI,Completed
+897,897,UPI,Completed
+898,898,Cash,Failed
+899,899,Cash,Failed
+900,900,Card,Failed
+901,901,Cash,Completed
+902,902,UPI,Completed
+903,903,UPI,Failed
+904,904,Net Banking,Pending
+905,905,Cash,Pending
+906,906,Cash,Failed
+907,907,Cash,Pending
+908,908,Card,Failed
+909,909,UPI,Failed
+910,910,Cash,Failed
+911,911,Card,Completed
+912,912,UPI,Pending
+913,913,Net Banking,Pending
+914,914,Card,Failed
+915,915,UPI,Failed
+916,916,Cash,Pending
+917,917,Cash,Completed
+918,918,Card,Completed
+919,919,Net Banking,Pending
+920,920,Cash,Completed
+921,921,Card,Pending
+922,922,UPI,Completed
+923,923,Cash,Pending
+924,924,Net Banking,Pending
+925,925,Net Banking,Completed
+926,926,Net Banking,Pending
+927,927,UPI,Completed
+928,928,Cash,Completed
+929,929,UPI,Pending
+930,930,Net Banking,Completed
+931,931,Net Banking,Pending
+932,932,Card,Pending
+933,933,Net Banking,Failed
+934,934,Card,Pending
+935,935,Net Banking,Failed
+936,936,Net Banking,Pending
+937,937,Cash,Pending
+938,938,Net Banking,Failed
+939,939,Net Banking,Completed
+940,940,Net Banking,Pending
+941,941,UPI,Completed
+942,942,Card,Completed
+943,943,Net Banking,Completed
+944,944,Net Banking,Completed
+945,945,UPI,Pending
+946,946,Cash,Completed
+947,947,UPI,Failed
+948,948,Net Banking,Failed
+949,949,Cash,Pending
+950,950,Card,Pending
+951,951,Net Banking,Pending
+952,952,Net Banking,Failed
+953,953,Net Banking,Completed
+954,954,UPI,Failed
+955,955,Card,Pending
+956,956,Net Banking,Failed
+957,957,UPI,Completed
+958,958,Cash,Pending
+959,959,Cash,Failed
+960,960,Card,Completed
+961,961,UPI,Pending
+962,962,Cash,Pending
+963,963,Net Banking,Failed
+964,964,UPI,Pending
+965,965,Card,Pending
+966,966,Net Banking,Failed
+967,967,UPI,Failed
+968,968,Cash,Failed
+969,969,UPI,Completed
+970,970,UPI,Pending
+971,971,Cash,Failed
+972,972,UPI,Completed
+973,973,Cash,Failed
+974,974,Net Banking,Completed
+975,975,Cash,Completed
+976,976,Net Banking,Pending
+977,977,Cash,Pending
+978,978,Card,Completed
+979,979,UPI,Completed
+980,980,Net Banking,Pending
+981,981,UPI,Failed
+982,982,Net Banking,Completed
+983,983,Net Banking,Failed
+984,984,UPI,Failed
+985,985,Card,Pending
+986,986,Net Banking,Pending
+987,987,UPI,Pending
+988,988,Net Banking,Pending
+989,989,Card,Pending
+990,990,UPI,Completed
+991,991,Net Banking,Failed
+992,992,UPI,Pending
+993,993,UPI,Completed
+994,994,UPI,Completed
+995,995,Card,Pending
+996,996,Cash,Pending
+997,997,Net Banking,Failed
+998,998,Card,Failed
+999,999,Card,Pending
+1000,1000,Net Banking,Pending
